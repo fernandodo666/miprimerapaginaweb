@@ -1,0 +1,25 @@
+body{
+    color: yellow;
+    background-color: rgb(92, 18, 92);
+}
+h1 {
+    color: red;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: rgb(214, 33, 78); 
+    background-color: rgb(105, 163, 240);
+}
+
+h3, h4 {color: rgb(248, 9, 9);
+background-color: rgb(0, 82, 11);
+}
+
+/* lo de abajo es cómo crear una ID, es decir, un conjunto de características. En el INDEX, la instrucción 
+es id + nombre 
+este texto es la manera de agregar comentarios en CSS */
+
+#RUKAWA{color: rgb(255, 129, 10);}
+
